@@ -1,63 +1,101 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "name": "Juan",
+    "role": "Desarrollador de Software, hago de todo un poco y me gusta ser entron, loco, atrevido y medirmele a las cosas 😂🤯🤑",
+    "linkedinId":"kwargsfunction@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " Me gusta el codigo, aprender, pero tambien enseñarle a otros, porque no me gusta creerme el que mas sabe, tambien me gusta crear comunidad y tomar iniciativa en muchas cosas 🤯👾",
     "socialLinks":[
         {
-          "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
-          "className":"fa fa-linkedin"
+          "name":"TikTok",
+          "url":"https://www.tiktok.com/@programadornea",
+          "className":"fa fa-play"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/juanestebanperezm",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"Discord",
+          "url":"https://discord.gg/aKHmTYTU8A",
+          "className":"fa fa-users"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Soy un joven demasiado introvertido, por eso me tapo la cara, pero tambien me gusta mucho crear contenido, ayudarle a otros, formar una comunidad, colaborar con otras personas, entrevistar personas, conocer gente nueva, salir a conocer personas jajaja, y entre mas personas conozca pues quien sabe hasta depronto conozca a alguien super importante algun dia y le caiga bien.",
+    "address":"Colombia",
+    "website":"https://wa.me/573008607992",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "UniversityName":"SENA",
+        "specialization":"Tecnico en programacion y desarrollo de software",
+        "MonthOfPassing":"Mar",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Kaggle",
+        "specialization":"Python",
+        "MonthOfPassing":"Mar",
+        "YearOfPassing":"2020",
+        "Achievements":""
+      },
+      {
+        "UniversityName":"SoloLearn",
+        "specialization":"SQL",
+        "MonthOfPassing":"Jul",
+        "YearOfPassing":"2020",
+        "Achievements":""
+      },
+      {
+        "UniversityName":"Certiprof",
+        "specialization":"Scrum",
+        "MonthOfPassing":"Jun",
+        "YearOfPassing":"2020",
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Big Bang Data SAS",
+        "specialization":"Desarrollador Full Stack",
+        "MonthOfLeaving":"Mar",
+        "YearOfLeaving":"2021",
+        "Achievements":"Desarrollo de Aplicaciones en Angular, Django, Firebase, Heroku 👽"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Miso Robotics",
+        "specialization":"Machine Learning, Deep Learning, Investigacion 🤖",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2022",
+        "Achievements":"Entrenamiento del modelo Keras Retinanet, investigacion, testeo de nuevos modelos para deteccion de objetos en imagenes, asi como procesamiento de datos"
+      }
+      ,
+      {
+        "CompanyName":"Soluciones Star SAS",
+        "specialization":"Desarrollo Backend y Wordpress 🎨",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2022",
+        "Achievements":"Desarrollo backend en Express JS, asi como tambien creacion de sitios en Wordpress, como tambien diseño de web, tareas de testing, uso de React, etc"
+      }
+      ,
+      {
+        "CompanyName":"Freelancer",
+        "specialization":"Desarrollo de Software, tutorias, mentorias 🤑",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"Actualidad",
+        "Achievements":"Analisis de datos, desarrollo backend en Express JS, desarrollo frontend en React, Wordpress, y actualmente un entusiasta del aprendizaje automatico, profundo y el estado del arte de la IA"
+      }
+      ,
+      {
+        "CompanyName":"Fundacion Humanos 3D",
+        "specialization":"Desarrollo de Software 🤠",
+        "MonthOfLeaving":"Jun",
+        "YearOfLeaving":"2021",
+        "Achievements":"Hace un tiempo ayude a una fundacion sin animo de lucro en temas de desarrollo de software que ellos requerian"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Habilidades",
     "skills":[
       {
         "skillname":"HTML5"
@@ -68,12 +106,47 @@ let resumeData = {
       {
         "skillname":"Reactjs"
       }
+      ,
+      {
+        "skillname":"Python"
+      },
+      {
+        "skillname":"Pandas"
+      },
+      {
+        "skillname":"Numpy"
+      },
+      {
+        "skillname":"Tensorflow-Keras"
+      },
+      {
+        "skillname":"ExpressJS"
+      }
+      ,
+      {
+        "skillname":"Docker"
+      }
+      ,
+      {
+        "skillname":"GCP"
+      }
+
+      ,
+      {
+        "skillname":"Django"
+      }
+      ,
+      {
+        "skillname":"sql-nosql"
+      }
+      ,
+      
     ],
     "portfolio":[
       {
-        "name":"project1",
+        "name":"React",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"public/images/loader.gif"
       },
       {
         "name":"project2",
